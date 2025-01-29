@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            color: red;
+            text-decoration: none; /* Utilizado para retirar underline de links, ou formatações automaticas */
+            font-weight: bold;
+        }
+
+        a:visited /* utilizado para alterar o link já visitado */ {
+            color: darkred;
+        }
+
+        a:hover {
+            color: black;
+            text-decoration: underline; /* Junto a pseudo classe hover, tras o efeito de underline para cada itens que colocar o cursor */
+        }
+
+        a:active /* Utilizado durante a ação do clique, neste caso a linha ficará amarela enquanto o botão esquerdo do mouse estiver presionado */{
+            color: yellow;
+        }
+
+        .especial {
+            background-color: rgb(238, 163, 163);
+        }
+
+        .especial::before {
+            content: "☣ ";
+        }
+
+        .especial::after{
+            content: " ☣";
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/EFranca88" target="_blank">Repositório GitHub</a></li>
+        <li><a href="https://www.youtube.com/@EFranSTechBR" class="especial" target="_blank">Canal do YouTube</a></li>
+        <li><a href="http://intra.sandbox.ecoscard.com.br/index.html#introducao" target="_blank">Site do SandboxInterno</a></li>
+        <li><a href="https://www.linkedin.com/in/eric-fran%C3%A7a-da-silva-582452117/" target="_blank" class="especial">Perfil do Linkedin</a></li>
+    </ul>
+</body>
+</html>
+
