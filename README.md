@@ -4,9 +4,8 @@
  Estudos para construção de sites.
 
 ## Veja cada exercicio aberto nos links abaixo
- <https://efranca88.github.io/html-css/>
 
-## Trabalhando com cores
+### Trabalhando com cores
  <https://efranca88.github.io/html-css/exercicios/ex016/fundo001.html>
 
 
