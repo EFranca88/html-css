@@ -14,4 +14,4 @@ Obs. A formatação desta página segue as recomendações e melhores práticas 
 Abaixo estão disponiveis os resultados e anotações criados durante cada capitulo.
 
 - *[Trabalhando com Cores](https://efranca88.github.io/html-css/exercicios/ex016/pageColors.md)*.
-- *[Trabalhando com Cores](https://efranca88.github.io/html-css/exercicios/ex017/pageFonts.md)*.
+- *[Trabalhando com Fonts](https://efranca88.github.io/html-css/exercicios/ex017/pageFonts.md)*.
