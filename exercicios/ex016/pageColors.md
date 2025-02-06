@@ -1,6 +1,8 @@
 # Trabalhando com Cores
 Neste capítulo foram trabalhados conceitos como:
 - Psicologia das cores
+- Harmonia de cores
+- Captura de cores
 - Paleta de cores
 - Códigos de cores
   - Nome da cor
@@ -8,6 +10,7 @@ Neste capítulo foram trabalhados conceitos como:
   - HSL
   - Hexadecimal
 - Degradê
+- 
 
 ## Visualização de Execícios
 Clique nos links abaixo para visualizar os execícios criados durante este capítulo.
@@ -17,6 +20,7 @@ Clique nos links abaixo para visualizar os execícios criados durante este capí
 4. *[Nome da cor, RGB, HSL e Hexadecimal](https://efranca88.github.io/html-css/exercicios/ex016/cor04.html)*.
 
 ## Visualização de Códigos
+Clique nos links abaixo para visualizar os códigos criados.
 1. *[Códigos de Cores](https://github.com/EFranca88/html-css/blob/main/exercicios/ex016/cor01.html)*.
 2. *[Degradê](https://github.com/EFranca88/html-css/blob/main/exercicios/ex016/cor02.html)*.
 3. *[Cores de Fundo](https://github.com/EFranca88/html-css/blob/main/exercicios/ex016/cor03.html)*.
