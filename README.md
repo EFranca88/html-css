@@ -7,7 +7,7 @@ Repositório do GitHub para visualização dos códigos.
 <https://github.com/EFranca88/html-css>
 
 
-Obs. A formatação desta página segue as recomendações de melhores práticas disponíveis no *[Guia do Markdown (Markdown Guide)](https://color.adobe.com/pt/create/color-wheel)*.
+Obs. A formatação desta página segue as recomendações e melhores práticas disponíveis no *[Guia do Markdown (Markdown Guide)](https://color.adobe.com/pt/create/color-wheel)*.
 
 
 ### Trabalhando com cores
