@@ -13,5 +13,10 @@ Obs. A formatação desta página segue as recomendações e melhores práticas 
 ### Códigos e apresentação de exercícios
 Abaixo estão disponiveis os resultados e anotações criados durante cada capitulo.
 
-- *[Trabalhando com Cores](https://efranca88.github.io/html-css/exercicios/ex016/pageColors.md)*.
-- *[Trabalhando com Fonts](https://efranca88.github.io/html-css/exercicios/ex017/pageFonts.md)*.
+- *[Trabalhando com Cores](https://efranca88.github.io/html-css/exercicios/ex016)*.
+- *[Trabalhando com Fontes (Parte 1)](https://efranca88.github.io/html-css/exercicios/ex017)*.
+- *[Trabalhando com Fontes (Parte 2)](https://efranca88.github.io/html-css/exercicios/ex018)*.
+- *[Trabalhando com Fonts](https://efranca88.github.io/html-css/exercicios/ex019)*.
+- *[Trabalhando com Cores](https://efranca88.github.io/html-css/exercicios/ex020)*.
+- *[Trabalhando com Fonts](https://efranca88.github.io/html-css/exercicios/ex021)*.
+- *[Trabalhando com Cores](https://efranca88.github.io/html-css/exercicios/ex022)*.

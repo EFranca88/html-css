@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento Vertical</title>
+    <style>
+        #container {
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            
+            position: relative; /* Todo posiciomento por padrão de um box é relativo, porem devemos ser explicitos nas declarações */
+            height: 96vh;
+            background-color: purple;
+            padding: 10px;
+            
+        }
+        #conteudo {
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            
+            position: absolute; /* Devemos colocar o box a ser alinhado verticalmente, como absolute */
+            height: 200px;
+            width: 400px;
+            background-color: yellow;
+            
+            left: 50%;
+            top: 50%;
+            /* Com left e top, podemos alterar o posicionamento da box, será considerado como ponto zero a vertice superior esquerda da box e os calculos de posicionamento devem ser realizados a partir  */
+            transform: translate(-50%, -50%);/* Tranform é utilizado para realizar alterações de transformação na box  */
+        }
+    </style>
+</head>
+<body>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
+</body>
+</html>

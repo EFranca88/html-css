@@ -3,15 +3,16 @@ Neste capítulo foram trabalhados conceitos como:
 - Familia de fontes
 - Fontes externas
 - Fontes online
+- Alinhamento de texto
 
 ## Visualização de Execícios
 Clique nos links abaixo para visualizar os execícios criados durante este capítulo.
-1. *[Códigos de Cores](https://efranca88.github.io/html-css/exercicios/ex017/fonte01.html)*.
-2. *[Degradê](https://efranca88.github.io/html-css/exercicios/ex017/fonte02.html)*.
+1. *[Fontes Externas(Google fonts)](https://efranca88.github.io/html-css/exercicios/ex017/fonte01.html)*.
+2. *[Fontes san-serif e alinhamento](https://efranca88.github.io/html-css/exercicios/ex017/fonte02.html)*.
 
 ## Visualização de Códigos
-1. *[Códigos de Cores](https://github.com/EFranca88/html-css/blob/main/exercicios/ex017/fonte01.html)*.
-2. *[Degradê](https://github.com/EFranca88/html-css/blob/main/exercicios/ex017/fonte02.html)*.
+1. *[Fontes Externas(Google fonts)](https://github.com/EFranca88/html-css/blob/main/exercicios/ex017/fonte01.html)*.
+2. *[Fontes san-serif e alinhamento](https://github.com/EFranca88/html-css/blob/main/exercicios/ex017/fonte02.html)*.
 
 
 ## Links Úteis
