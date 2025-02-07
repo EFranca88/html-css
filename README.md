@@ -9,7 +9,6 @@ Repositório do GitHub para visualização dos códigos.
 
 Obs. A formatação desta página segue as recomendações e melhores práticas disponíveis no *[Guia do Markdown (Markdown Guide)](https://color.adobe.com/pt/create/color-wheel)*.
 
-
 ### Códigos e apresentação de exercícios
 Abaixo estão disponiveis os resultados e anotações criados durante cada capitulo.
 
