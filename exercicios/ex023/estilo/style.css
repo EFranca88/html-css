@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: Sriracha;
+    src: url(../fontes/Sriracha/Sriracha-Regular.ttf) format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Passion One';
+    src: url(../fontes/Passion_One/PassionOne-Bold.ttf) format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Cabeçalho */
+header {
+    background-color: black;
+}
+header > h1 {
+    color: white;
+    font-family: 'Passion One', sans-serif;
+    font-size: auto;
+    text-align: center;
+    margin: 0px;
+    padding: 52px 0px 0px 0px;
+}
+header > p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 0px 0px 52px 0px;
+}
+.h1fristletter {
+    font-size: 1.5em;
+}
+
+/* Conteúdo principal */
+main {
+    font-family: Sriracha, 'Arial Narrow Bold', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+section {
+    margin: 0px;
+    padding: 60px 0px;
+}
+section > p {
+    padding: 20px 30px;
+}
+.sectionflower{
+    background-image: url(../imagens/joaninha-angelo-casto-MrDSEMZsBnM-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sectionflower > p {
+    margin: 0px 0px 0px 20px;
+    padding: 10px 5px 10px 5px;
+    color: white;
+    height: 100%;
+    width: 187px;
+    background-color: rgba(0, 0, 0, 0.482);
+    text-shadow: 1px 1px black;
+}
+.sectionbook {
+    background-image: url(../imagens/livro-aaron-burden-CKlHKtCJZKk-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sectionbook > p {
+    margin: 0px 0px 0px 20px;
+    padding: 10px 5px 10px 5px;
+    color: white;
+    height: 100%;
+    width: 190px;
+    background-color: rgba(0, 0, 0, 0.482);
+    text-shadow: 1px 1px black;
+}
+
+/* Rodapé */
+footer {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+footer > p {
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: ;
+    color: white;
+    margin: 0px;
+}
