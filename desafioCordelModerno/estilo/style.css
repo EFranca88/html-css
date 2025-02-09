@@ -29,25 +29,18 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Cabeçalho */
 header {
     background-color: black;
-    color: white;
     text-align: center;
+    padding: 100px 0px;
+    color: white;
 }
 header > h1 {
     font-family: 'Passion One', sans-serif;
     font-variant: small-caps;
-    padding: 52px 0px 0px 0px;
     font-size: 10vw;
 }
-header > p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 0px 0px 52px 0px;
-}
 
-
-/* Conteúdo principal */
 section {
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -66,7 +59,6 @@ section {
     background-color: black;
 }
 .sectionflower > p {
-    
     color: white;
     max-width: 50%;
     background-color: rgba(0, 0, 0, 0.482);
@@ -87,13 +79,11 @@ section {
     text-shadow: 1px 1px black;
 }
 
-/* Rodapé */
 footer {
     background-color: black;
 }
 footer > p {
     padding: 10px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
