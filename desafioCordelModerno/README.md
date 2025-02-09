@@ -1,6 +1,6 @@
 # Planejamento de replicação de site Cordel Moderno
 Link do exercício.
-- *[Site Cordel Moderno](https://efranca88.github.io/html-css/exercicios/ex023/index.html)*.
+- *[Site Cordel Moderno](https://efranca88.github.io/html-css/desafioCordelModerno/index.html)*.
 
 ## Construção de menu
 - Menu centralizado e reduz ou aumenta o tamanho da fonte de acordo com o tamanho da janela.

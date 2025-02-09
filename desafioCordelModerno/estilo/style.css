@@ -12,9 +12,14 @@
     font-weight: normal;
     font-style: normal;
 }
-body{
+* {
     margin: 0px;
     padding: 0px;
+    font-size: 1em;
+}
+html, body {
+    min-height: 100vh;
+    background-color: darkgray;
 }
 a {
     text-decoration: none;
@@ -27,38 +32,30 @@ a:hover {
 /* Cabeçalho */
 header {
     background-color: black;
+    color: white;
+    text-align: center;
 }
 header > h1 {
-    color: white;
     font-family: 'Passion One', sans-serif;
-    font-size: auto;
-    text-align: center;
-    margin: 0px;
+    font-variant: small-caps;
     padding: 52px 0px 0px 0px;
+    font-size: 10vw;
 }
 header > p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-    text-align: center;
-    margin: 0px;
     padding: 0px 0px 52px 0px;
 }
-.h1fristletter {
-    font-size: 1.5em;
-}
+
 
 /* Conteúdo principal */
-main {
-    font-family: Sriracha, 'Arial Narrow Bold', sans-serif;
-    margin: 0px;
-    padding: 0px;
-}
 section {
-    margin: 0px;
-    padding: 60px 0px;
-}
-section > p {
-    padding: 20px 30px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    background-color: white;
+    line-height: 2em;
+    padding-left: 30px;
+    font-family: Sriracha, 'Arial Narrow Bold', sans-serif;
+    font-size: 3.5vw;
 }
 .sectionflower{
     background-image: url(../imagens/joaninha-angelo-casto-MrDSEMZsBnM-unsplash.jpg);
@@ -66,12 +63,12 @@ section > p {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-color: black;
 }
 .sectionflower > p {
-    margin: 0px 0px 0px 20px;
-    padding: 10px 5px 10px 5px;
+    
     color: white;
-    max-width: 187px;
+    max-width: 50%;
     background-color: rgba(0, 0, 0, 0.482);
     text-shadow: 1px 1px black;
 }
@@ -81,12 +78,11 @@ section > p {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-color: black;
 }
 .sectionbook > p {
-    margin: 0px 0px 0px 20px;
-    padding: 10px 5px 10px 5px;
     color: white;
-    max-width: 190px;
+    max-width: 50%;
     background-color: rgba(0, 0, 0, 0.482);
     text-shadow: 1px 1px black;
 }
@@ -94,13 +90,10 @@ section > p {
 /* Rodapé */
 footer {
     background-color: black;
-    margin: 0px;
-    padding: 0px;
 }
 footer > p {
     padding: 10px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
-    margin: 0px;
 }
