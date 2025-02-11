@@ -6,17 +6,19 @@ Neste capítulo foram trabalhados conceitos como:
 - Caption e Escopo de títulos de tabelas
 - Dimensionamento de colunas
 - Efeito Zebrado
+- Mesclando células
 
 ## Visualização de Execícios 
 Clique nos links abaixo para visualizar os execícios criados durante este capítulo.
 1. *[Hierarquia de tabelas (Simples)](https://efranca88.github.io/html-css/exercicios/ex023/tabela001.html)*.
 2. *[Anatomia para tabelas grandes](https://efranca88.github.io/html-css/exercicios/ex023/tabela002.html)*.
+3. *[Mesclagem de células](https://efranca88.github.io/html-css/exercicios/ex023/tabela003.html)*.
 
 
 ## Visualização de Códigos
 1. *[Hierarquia de tabelas (Simples)](https://github.com/EFranca88/html-css/blob/main/exercicios/ex023/tabela001.html)*.
 2. *[Anatomia para tabelas grandes](https://github.com/EFranca88/html-css/blob/main/exercicios/ex023/tabela002.html)*.
-
+3. *[Mesclagem de células](https://github.com/EFranca88/html-css/blob/main/exercicios/ex023/tabela003.html)*.
 
 ## Links Úteis
 Sites para criação de paletas de cores:
